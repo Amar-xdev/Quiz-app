@@ -1,10 +1,13 @@
 import React from 'react'
 import Quiz from './components/Quiz1'
+import CrudDemo from './components/CrudDemo'
 
 const App = () => {
   return (
     <div>
-    <Quiz/>
+    {/* <Quiz/> */}
+
+    <CrudDemo/>
     </div>
   )
 }
