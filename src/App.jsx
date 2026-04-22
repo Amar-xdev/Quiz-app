@@ -5,7 +5,7 @@ import CrudDemo from './components/CrudDemo'
 const App = () => {
   return (
     <div>
-    {/* <Quiz/> */}
+    <Quiz/>
 
     <CrudDemo/>
     </div>
